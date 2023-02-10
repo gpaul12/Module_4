@@ -18,4 +18,3 @@ decrementEl.addEventListener("click", function() {
   setCounterText();
 })
 
-setCounterText();
